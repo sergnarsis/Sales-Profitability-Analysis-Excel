@@ -72,8 +72,8 @@ Brings together the main findings and presents business recommendations based on
 - Total sales reached approximately **$2.30 million**, generating approximately **$286,397 in profit**.
 - Annual sales and profit demonstrated an overall upward trend between 2014 and 2017.
 - Product profitability varied considerably across sub-categories, with some high-sales products generating negative profit.
-- Certain geographical markets recorded substantial sales despite reporting negative profitability.
-- Linear extrapolation and ETS provided different perspectives on future sales behaviour, demonstrating the importance of evaluating forecasting methods before using their projections for business planning.
+- Certain geographical markets recorded negative profitability despite reporting substantial sales.
+- The forecasts produced by both methods indicate that the business may continue to experience sales growth over the next two years.
 
 ## Business Recommendations
 
