@@ -51,22 +51,31 @@ Contains the structured dataset used throughout the project, with standardised f
 **3. Statistical Analysis**
 
 Provides an overview of sales and profit distribution, revenue classification, product lookup functionality, and statistical indicators. It also includes interactive elements for exploring individual products and business performance.
+![Statistical Analysis](Screenshots/Statistical_Analysis1.png)
+![Statistical Analysis](Screenshots/Statistical_Analysis2.png)
 
 **4. Product Performance**
 
 Examines sales, profit, and quantity across product categories and sub-categories. It also investigates performance across customer segments and discount levels to identify profitable and loss-making product groups.
+![Product Performance](Screenshots/Product_Performance1.png)
+![Product Performance](Screenshots/Product_Performance2.png)
 
 **5. Regional Sales Analysis**
 
 Evaluates geographical performance at regional, state, and city levels, highlighting differences in sales, profit, and profitability across markets.
+![Regional Sales Analysis](Screenshots/Regional_Sales_Analysis1.png)
+![Regional Sales Analysis](Screenshots/Regional_Sales_Analysis2.png)
 
 **6. Projections**
 
 Analyses historical sales and profit trends and applies linear extrapolation and exponential smoothing (ETS) to estimate future sales. Historical validation comparisons are used to evaluate forecasting performance.
+![Projections](Screenshots/Projections1.png)
+![Projections](Screenshots/Projections2.png)
 
 **7. Summary**
 
 Brings together the main findings and presents business recommendations based on the product, regional, and forecasting analyses.
+![Summary](Screenshots/Summary.png)
 
 ## Key Analytical Findings
 
