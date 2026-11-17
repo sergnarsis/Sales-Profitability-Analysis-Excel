@@ -46,7 +46,7 @@ Contains the original transactional dataset, preserved as the source for subsequ
 **2. Prepared Data**
 
 Contains the structured dataset used throughout the project, with standardised fields and prepared date values.
-![Prepsred Data](E:\Учеба\Работы на заказ\For work\Projects\Excel_Superstore_Sales_Analysis\Screenshots\Prepared_Data.png)
+![Prepsred Data](Screenshots\Prepared_Data.png)
 
 **3. Statistical Analysis**
 
